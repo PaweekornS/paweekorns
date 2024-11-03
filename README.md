@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paweekorn Soratyathorn</h1>
+<h1 align="center">Hi 👋, I'm Paweekorn</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
 - 🌱 I’m currently learning **LLMs and Computer Vision field**
