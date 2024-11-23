@@ -1,5 +1,6 @@
 # About me:
-My name is Paweekorn or you can call me Pun. I'm currently a computer engineering student at KMUTT.
+- Computer Engineering student at King Mongkut University of Thonbuti (KMUTT)
+- Interesting in Computer Vision
 
 ## Competitions
 - ExxonMobil Bootcathon 2024 (Analytics/ML track)
