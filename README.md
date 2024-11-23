@@ -1,6 +1,6 @@
 # About me:
 - Computer Engineering student at King Mongkut University of Thonbuti (KMUTT)
-- Interesting in Computer Vision
+- Currently interested in Computer Vision field
 
 ## Competitions
 - ExxonMobil Bootcathon 2024 (Analytics/ML track)
