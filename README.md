@@ -10,6 +10,13 @@
 - Mini Hackathon: Epidemiology (BUU)
 - Forecasting Electricity consumption (CMU)
 
+### SuperAI Engineer Season 5
+- NLP: Named Entity Recognition (Level 1)
+- Image Processing: Thai Language Image Captioning (Level 1)
+- Signal Processing: Fast Radio Burst Detection (Level 1)
+- Data Science: Heart Disease Prediction (Level 1)
+- IoT: Sleep Stage Classification (Level 1)
+
 ## Tech Stacks
 
 ### Programming language
