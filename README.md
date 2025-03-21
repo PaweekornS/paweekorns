@@ -16,6 +16,7 @@
 - Signal Processing: Fast Radio Burst Detection (Level 1)
 - Data Science: Heart Disease Prediction (Level 1)
 - IoT: Sleep Stage Classification (Level 1)
+- 5 Domains Hackathon (Level 1)
 
 ## Tech Stacks
 
