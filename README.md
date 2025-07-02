@@ -21,11 +21,11 @@ ___
 
 **Level 2 Hackathon**
 ___
-- Crime Charges Analysis -- BOL
-- Audio understanding -- SCBx
-- Liver Fibrosis severity -- AIAT
-- Cognitive Profiling -- Image Matters Asia
-- Demand Forecasting -- AXONS
+- Crime Charges Analysis (BOL)
+- Audio understanding (SCBx)
+- Liver Fibrosis severity (AIAT)
+- Cognitive Profiling (Image Matters Asia)
+- Demand Forecasting (AXONS)
 
 ## Tech Stacks
 
