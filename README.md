@@ -11,7 +11,7 @@
 - Forecasting Electricity consumption (CMU)
 
 ### SuperAI Engineer Season 5
-Level 1 
+**Level 1**
 ___
 - NLP: Named Entity Recognition
 - Image Processing: Thai Language Image Captioning
@@ -19,7 +19,7 @@ ___
 - Data Science: Heart Disease Prediction
 - IoT: Sleep Stage Classification
 
-Level 2
+**Level 2**
 ___
 - Crime Charges Analysis hackathon -- BOL
 - Audio understanding hackathon -- SCBx
