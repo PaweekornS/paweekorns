@@ -11,12 +11,21 @@
 - Forecasting Electricity consumption (CMU)
 
 ### SuperAI Engineer Season 5
-- NLP: Named Entity Recognition (Level 1)
-- Image Processing: Thai Language Image Captioning (Level 1)
-- Signal Processing: Fast Radio Burst Detection (Level 1)
-- Data Science: Heart Disease Prediction (Level 1)
-- IoT: Sleep Stage Classification (Level 1)
-- 5 Domains Hackathon (Level 1)
+Level 1 
+___
+- NLP: Named Entity Recognition
+- Image Processing: Thai Language Image Captioning
+- Signal Processing: Fast Radio Burst Detection
+- Data Science: Heart Disease Prediction
+- IoT: Sleep Stage Classification
+
+Level 2
+___
+- Crime Charges Analysis hackathon -- BOL
+- Audio understanding hackathon -- SCBx
+- Liver Fibrosis severity hackathon -- AIAT
+- Cognitive Profiling hackathon -- Image Matters Asia
+- Demand Forecasting hackathon -- AXONS
 
 ## Tech Stacks
 
@@ -34,6 +43,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Other
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
