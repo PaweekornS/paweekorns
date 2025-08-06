@@ -47,3 +47,16 @@ ___
 
 ### Other
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: center; width: 1920px;">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Celesca&theme=react&hide_border=false)</div>
+
+</div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Celesca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Celesca&icon=0&color=0)](https://visitcount.itsvg.in)
