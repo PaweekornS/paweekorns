@@ -56,7 +56,7 @@ ___
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paweekorns)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paweekorns&size_weight=0.5&count_weight=0.5)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paweekorns&icon=0&color=0)](https://visitcount.itsvg.in)
