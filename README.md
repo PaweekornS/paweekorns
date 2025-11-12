@@ -7,10 +7,6 @@
 - ExxonMobil Bootcathon 2024 (Analytics/ML track)
 - Research2Market KMUTT
 
-### SuperAI Engineer Season 4
-- Mini Hackathon: Epidemiology (BUU)
-- Forecasting Electricity consumption (CMU)
-
 ### SuperAI Engineer Season 5
 **Level 1 Hackathon**
 ___
