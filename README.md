@@ -1,5 +1,6 @@
 # About me:
 - Computer Engineering student at King Mongkut University of Thonbuti (KMUTT)
+- GDGoC at KMUTT (Academic Team)
 - Currently interested in ThaiNLP and LLM
 - Research Assistant (RA) at NECTEC
 
