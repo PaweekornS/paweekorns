@@ -6,23 +6,13 @@
 ## Competitions
 - ExxonMobil Bootcathon 2024 (Analytics/ML track)
 - Research2Market KMUTT
+- AI Benchmark 2025: 2nd place in ASR track 
 
 ### SuperAI Engineer Season 5
-**Level 1 Hackathon**
-___
-- NLP: Named Entity Recognition
-- Image Processing: Thai Language Image Captioning
-- Signal Processing: Fast Radio Burst Detection
-- Data Science: Heart Disease Prediction
-- IoT: Sleep Stage Classification
-
-**Level 2 Hackathon**
-___
-- Crime Charges Analysis (BOL)
-- Audio understanding (SCBx)
-- Liver Fibrosis severity (AIAT)
-- Cognitive Profiling (Image Matters Asia)
-- Demand Forecasting (AXONS)
+**Team Hackathon**
+- 1st place: Audio Understanding
+- 2nd place: Crime Charges Analysis
+- Honorable Mention: Demand Forecasting
 
 ## Tech Stacks
 
